@@ -1,0 +1,13 @@
+##For Intellij IDEA 
+*.iml
+.idea/
+
+
+#Git init
+
+.init
+.git
+
+##Temp files
+*~
+
